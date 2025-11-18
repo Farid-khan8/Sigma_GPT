@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Node modules (in case frontend has its own)
+node_modules/
+
+# Environment files (extra safety)
+*.env
+
+# Build / dist files
+dist/
+build/
+
+# VS Code settings
+.vscode/
